@@ -1,0 +1,12 @@
+今日任务：
+     SpringSecurity+Jwt
+
+
+
+
+    并发编程
+    数据库
+     日志框架
+     消息队列kafka
+
+
